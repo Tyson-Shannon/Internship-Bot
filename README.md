@@ -20,4 +20,4 @@ Member Benefits and Application
 and many more. Sign up now and get all the benefits.<br/>
 https://sites.google.com/view/colorstackmsu/home
 <br/><br/>
-*This bot scrapes for new internships and posts them in our Slack chat*
+** This bot scrapes for new internships and posts them in our Slack chat **
